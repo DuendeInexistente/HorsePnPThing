@@ -123,7 +123,7 @@ Diferent things that could be crafted
     *   Potions would have relatively short, but very intense effects. Overdosing in them would always be a danger, but their effects would stack.
     *   Foodstuffs could be made, with far more lasting -yet non-stacking- effects. Only a limited amount of them could be ingested each day.
 *   Debuffing items.
-    *   Poisons could be used to coat weapons and projectiles, but making them would be risky-- poisoning, if the maker is unlucky enough and is fooling with very dangerous materials, could be irreversible.
+    *   Poisons could be used to coat weapons and projectiles, but making them would be risky-- poisoning, if the maker is unlucky enough and fooling with very dangerous materials, could be irreversible.
     *   Foods could also be poisoned, optionally.
 *   Weapons
     *   All weapons could be turned into their basic components, at the risk of damaging one or several components.
