@@ -91,8 +91,8 @@ Ejemplo:
 
 | **_Name: Glaive_** | **_Size: Huge_** |
 | --- | --- |
-| **_Components: Long handle, cutting flat, Pointed end_** |  |
-| **_Available attacks:_** |  |
+| **_Components: Long handle, cutting flat, Pointed end_**   |
+| **_Available attacks:_**   |
 
 Damage types
 
