@@ -144,6 +144,9 @@ While never as good as a proper lab, carts could carry some of the equipement ne
 
 [^6]: Individuals that are seemingly unique.
 
+[^7].  [Old and outdated infographic](https://files.catbox.moe/u754q8.png) , made for another system altogether. [↑](README.md#781537938164547-footnote-ref-8)
+
+
 [^8]: Weapons that are so massive they require to be driven.
 
 [^9]: Duration of the unconcioussness should be a roll related to **Str**. Maybe turns=[**Str**]d4?
