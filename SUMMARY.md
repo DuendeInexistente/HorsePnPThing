@@ -2,5 +2,5 @@
 
 * [HorsePnPthing](README.md)
 * [Todo](todo.md)
-* Scratchpad
+* [Scratchpad](scratchpad.md)
 
