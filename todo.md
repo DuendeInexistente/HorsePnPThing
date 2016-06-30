@@ -12,6 +12,7 @@
 6.  Implementing feats?
 7.  Implementing crafting systems.
 
-1.  [Old](https://files.catbox.moe/u754q8.png)[and](https://files.catbox.moe/u754q8.png)[outdated](https://files.catbox.moe/u754q8.png)[infographic](https://files.catbox.moe/u754q8.png), made for another system altogether. [↑](README.md#781537938164547-footnote-ref-8)
+
+1.  [Old and outdated infographic](https://files.catbox.moe/u754q8.png) , made for another system altogether. [↑](README.md#781537938164547-footnote-ref-8)
 
 [^10]: They require armor. [↑](#781537938164547-footnote-ref-11)
