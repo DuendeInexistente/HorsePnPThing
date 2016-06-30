@@ -132,10 +132,6 @@ Diferent things that could be crafted
 
 While never as good as a proper lab, carts could carry some of the equipement necesary for certain professions, such as alchemy
 
-[^1]: Other than _the_ canon setting, of course. It’ll be a sort of base, and only contain strictly canonical elements.
-
-[^2]: Proper credit will be given in the manner of abundant footnotes.
-
 [^3]: Creatures should have both their stats and methods for non-lethal management.
 
 [^4]: Can be either normal, sarosian, or crystal.
