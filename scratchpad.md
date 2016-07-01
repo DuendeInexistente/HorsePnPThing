@@ -33,7 +33,7 @@
     *   Diamond Dog
     *   Dragon
     *   Siren
-*   **_Unique_**[^6]
+*   **_Unique_**[^seis]
     *   Draconequus <sup>(Discord)</sup>
     *   Alicorn <sup>(Celestia, Luna, Twilight, Cadance)</sup>
     *   Centaur <sup>(Tirek)</sup>
@@ -68,7 +68,7 @@ May or may not do this; may lead to overcomplexity, a must-not in PnP. Would add
     *   Long handle <sup>(Axes, polearms)</sup>
     *   Triggered handle. <sup>(Handguns, crossbows)</sup>
     *   Flexible handle <sup>(Bows)</sup>
-    *   Telekinetic handle <sup>(Clover</sup>[^7]
+    *   Telekinetic handle <sup>(Clover</sup>[^siete]
 *   Damaging surface
     *   Blunt surface <sup>(A sword’s flat, a club)</sup>
     *   Pointed end <sup>(Sword, spear, arrow)</sup>
@@ -85,7 +85,7 @@ May or may not do this; may lead to overcomplexity, a must-not in PnP. Would add
     *   Medium <sup>(Broadsword)</sup>
     *   Large <sup>(Axe)</sup>
     *   Huge <sup>(Spear)</sup>
-    *   Vehicle weapon[^8]. <sup>(Canons, battering rams)</sup>
+    *   Vehicle weapon[^ocho]. <sup>(Canons, battering rams)</sup>
 
 Ejemplo:
 
@@ -105,7 +105,7 @@ Different damaging surfaces serve nothing with only plain physical damage; Catal
 *   Physical
     *   Blunt
         *   Closest thing to “Standard” damage, and the preference of those who want to remain non-lethal. Bypasses light armor.
-        *   **Crit Succ**: Player can select whether to break a bone of the adversary, or to make them fall unconscious[^9]
+        *   **Crit Succ**: Player can select whether to break a bone of the adversary, or to make them fall unconscious[^nueve]
     *   Entrapping.
         *   Entrapping weapons, when used as such, can be non damaging
     *   Cutting
@@ -143,4 +143,4 @@ While never as good as a proper lab, carts could carry some of the equipement ne
 
 [^ocho]: Weapons that are so massive they require to be driven.
 
-[^9]: Duration of the unconcioussness should be a roll related to **Str**. Maybe turns=[**Str**]d4?
+[^nueve]: Duration of the unconcioussness should be a roll related to **Str**. Maybe turns=[**Str**]d4?
