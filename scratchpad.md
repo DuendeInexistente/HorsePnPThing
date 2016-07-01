@@ -10,7 +10,7 @@
 ### List of sapient races: {#list-of-sapient-races}
 
 *   **_Equines_**
-    *   Pony[^4]
+    *   Pony[^ruler]
         *   Earth pony
         *   Pegasus
         *   Unicorn
@@ -22,7 +22,7 @@
     *   Yaks
     *   Buffalo
     *   Cow/Bull
-    *   Goat[^5]
+    *   Goat[^zha]
 *   **_Faerie_**
     *   Changeling
         *   Queen
@@ -134,7 +134,7 @@ While never as good as a proper lab, carts could carry some of the equipement ne
 
 [^ruler]: Can be either normal, sarosian, or crystal.
 
-[^5]: I know they aren’t fucking bovines, don’t remind me. For those who don’t know, goats are crazy fuckers who don’t give no shits about no thing, so they have their own family-- “Caprids”
+[^zha]: I know they aren’t fucking bovines, don’t remind me. For those who don’t know, goats are crazy fuckers who don’t give no shits about no thing, so they have their own family-- “Caprids”
 
 [^6]: Individuals that are seemingly unique.
 
