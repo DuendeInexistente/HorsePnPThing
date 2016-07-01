@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](Introduction.md)
-* [HorsePnPthing](Introduction.md)
+* [Introduction](README.md)
 * [Todo](todo.md)
+* [Introduction](Introduction.md)
 * [Scratchpad](scratchpad.md)
 
