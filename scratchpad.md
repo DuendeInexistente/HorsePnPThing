@@ -136,11 +136,11 @@ While never as good as a proper lab, carts could carry some of the equipement ne
 
 [^zha]: I know they aren’t fucking bovines, don’t remind me. For those who don’t know, goats are crazy fuckers who don’t give no shits about no thing, so they have their own family-- “Caprids”
 
-[^6]: Individuals that are seemingly unique.
+[^seis]: Individuals that are seemingly unique.
 
-[^7]:  [Old and outdated infographic](https://files.catbox.moe/u754q8.png) , made for another system altogether.
+[^siete]:  [Old and outdated infographic](https://files.catbox.moe/u754q8.png) , made for another system altogether.
 
 
-[^8]: Weapons that are so massive they require to be driven.
+[^ocho]: Weapons that are so massive they require to be driven.
 
 [^9]: Duration of the unconcioussness should be a roll related to **Str**. Maybe turns=[**Str**]d4?
