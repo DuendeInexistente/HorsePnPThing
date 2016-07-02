@@ -8,7 +8,7 @@
     1.  Giving stats to well liked species
         1.  Pony variants, zebras, griffons
 5.  Implementing armor systems
-    1.  Give changelings stats.[^penis]
+    1.  Give changelings stats.[^pen]
 6.  Implementing feats?
 7.  Implementing crafting systems.
 
@@ -18,4 +18,4 @@
 
 
 
-[^penis]: They require armor. [↑](#781537938164547-footnote-ref-11)
+[^pen]: They require armor. [↑](#781537938164547-footnote-ref-11)
