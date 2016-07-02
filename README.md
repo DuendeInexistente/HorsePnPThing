@@ -1,8 +1,10 @@
 # HorsePnPthing {#horsepnpthing}
 
 Horse PnP Thing introduction
+
 (**or,**)
-**In which I talk about my try to make a PnP game from scratch.**
+
+**In which I talk about my try to make a P&P game from scratch.**
 
 ### Reasoning: {#reasoning}
 
