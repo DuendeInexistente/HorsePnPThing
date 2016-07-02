@@ -10,7 +10,7 @@
             "highlightCommented": true
         },
         "edit-link": {
-            "base": "https://github.com/DuendeInexistente/HorsePnPThing",
+            "base": "https://github.com/DuendeInexistente/HorsePnPThing/blob/master",
             "label": "Edit This Page"
         }
     }
