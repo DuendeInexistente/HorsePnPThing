@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Scratchpad](scratchpad.md)
-   * Magic
+   * [Magic](scratchpad/magic.md)
 * [Todo](todo.md)
 
