@@ -3,8 +3,7 @@
         "footnote-string-to-number",
         "printlinks",
         "comment",
-        "edit-link",
-        "-editlink"
+        "edit-link"
     ],
     "pluginsConfig": {
         "comment": {
@@ -13,11 +12,6 @@
         "edit-link": {
             "base": "https://github.com/DuendeInexistente/HorsePnPThing",
             "label": "Edit This Page"
-        },
-        "-editlink": {
-            "base": "https://github.com/DuendeInexistente/HorsePnPThing",
-            "label": "Edit This Page",
-            "multilingual": "0"
         }
     }
 }
