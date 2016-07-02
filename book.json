@@ -6,7 +6,8 @@
         "edit-link",
         "multipart",
         "word-count",
-        "image-captions"
+        "image-captions",
+        "style"
     ],
     "pluginsConfig": {
         "comment": {
