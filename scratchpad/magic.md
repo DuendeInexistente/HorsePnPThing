@@ -1,4 +1,4 @@
-##Do keep in mind than this section is still being converter from more traditional systems.
+##Do keep in mind than this section was taken directly from an older project, and hence isn't compatible with the modern one. It's presence is merely for ilustrative reasons.
 # Magic
 
 Before listing the spells themselves, it's worth noting that not all species cast magic the same way, and there isn't a universal school of magic. Every method has advantages and disadvantages.
