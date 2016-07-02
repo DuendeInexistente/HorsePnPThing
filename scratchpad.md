@@ -137,7 +137,8 @@ While never as good as a proper lab, carts could carry some of the equipement ne
  *  Medic cart: To carry the wounded safely.
 
 
-#### Magic
+#### Magic {#magic}
+
 
 
 
