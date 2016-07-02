@@ -13,7 +13,8 @@ Mana burnout bonuses only affect those who suffered the mana burnout due to usin
 Pure magics
 ===========
 
-(Or, when lights go pew-pew)
+#####(Or, when lights go pew-pew)
+###### saaa
 
 #### Arcane Magic
 
@@ -209,7 +210,7 @@ Can be used by: Pegasi, griffins
 Partial magics
 ==============
 
-(Or, when you make something that uses the magic indirectly)
+#####(Or, when you make something that uses the magic indirectly)
 
 #### Runecrafting
 
