@@ -4,7 +4,7 @@
         "printlinks",
         "comment",
         "edit-link",
-        "editlink"
+        "-editlink"
     ],
     "pluginsConfig": {
         "comment": {
@@ -14,7 +14,7 @@
             "base": "https://github.com/DuendeInexistente/HorsePnPThing",
             "label": "Edit This Page"
         },
-        "editlink": {
+        "-editlink": {
             "base": "https://github.com/DuendeInexistente/HorsePnPThing",
             "label": "Edit This Page",
             "multilingual": "0"
