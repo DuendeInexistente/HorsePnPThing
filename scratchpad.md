@@ -130,8 +130,11 @@ Diferent things that could be crafted
 
 #### Vehicles {#vehicles}
 
-While never as good as a proper lab, carts could carry some of the equipement necesary for certain professions, such as alchemy
+While never as good as a proper lab, carts could carry some of the equipement necesary for certain professions, such as alchemy. While practical, they are far too large to enter anything but large spaces such as garages. They'd also be in risk of being stolen.
 
+ *  Gipsy cart: Because everyone will want one if I don't add it. Can store stuff, but it's too large to enter.
+ *  Alchemic cart: Allows alchemists to make basic potions.
+ *  Medic cart: To carry the wounded safely.
 
 ---
 
