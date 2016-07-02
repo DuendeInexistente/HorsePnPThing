@@ -1,7 +1,8 @@
 {
     "plugins": [
         "footnote-string-to-number",
-        "printlinks"
+        "printlinks",
+        "comment"
     ],
     "pluginsConfig": {}
 }
