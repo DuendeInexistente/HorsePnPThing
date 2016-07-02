@@ -45,9 +45,6 @@
 Mainly around D20, as D100 adds more exactitude than anyone needs in a PnP-- Its little more than masturbating to large numbers. Damage scale would be high-ish, to add flexibility; Starting chars would be at a promedium of 20HP, assuming they aren’t a high/low HP build.
 
 Weapons wouldn’t be grouped by straight class, but by damaging and handling surfaces.
-{{ "example text" | style("color:red") }}
-
-{{ "example text" | style("text-align:center") }}
 
 #### Attributes: {#attributes}
 
@@ -138,6 +135,12 @@ While never as good as a proper lab, carts could carry some of the equipement ne
  *  Gipsy cart: Because everyone will want one if I don't add it. Can store stuff, but it's too large to enter.
  *  Alchemic cart: Allows alchemists to make basic potions.
  *  Medic cart: To carry the wounded safely.
+
+
+#### Magic
+
+
+
 
 ---
 
