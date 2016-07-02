@@ -1,11 +1,11 @@
 # Scratchpad
-######(**or,**)
+#####(**or,**)
 
-######**In which I the minds storm.**
+#####**In which I the minds storm.**
 
-######**Fear ye who enter;**
+#####**Fear ye who enter;**
 
-######**This is a land of changing tongues and private logic.**
+#####**This is a land of changing tongues and private logic.**
 
 ### List of sapient races: {#list-of-sapient-races}
 
