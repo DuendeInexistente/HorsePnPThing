@@ -9,6 +9,11 @@
     "pluginsConfig": {
         "comment": {
             "highlightCommented": true
+        },
+        "editlink": {
+            "base": "https://github.com/DuendeInexistente/HorsePnPThing",
+            "label": "Edit This Page",
+            "multilingual": "false"
         }
     }
 }
