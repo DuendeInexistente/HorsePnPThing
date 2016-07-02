@@ -2,8 +2,8 @@
 #####(**or,**)
 
 #####**In which I the minds storm.**
-
-#####**Fear ye who enter;**
+----
+#####**{{ "Fear ye who enter;" | style("color:red") }}**
 
 #####**This is a land of changing tongues and private logic.**
 
