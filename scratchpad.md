@@ -46,6 +46,7 @@ Mainly around D20, as D100 adds more exactitude than anyone needs in a PnP-- Its
 
 Weapons wouldn’t be grouped by straight class, but by damaging and handling surfaces.
 {{ "example text" | style("color:red") }}
+
 {{ "example text" | style("text-align:center") }}
 
 #### Attributes: {#attributes}
