@@ -132,6 +132,10 @@ Diferent things that could be crafted
 
 While never as good as a proper lab, carts could carry some of the equipement necesary for certain professions, such as alchemy
 
+
+---
+
+
 [^ruler]: Can be either normal, sarosian, or crystal.
 
 [^zha]: I know they aren’t fucking bovines, don’t remind me. For those who don’t know, goats are crazy fuckers who don’t give no shits about no thing, so they have their own family-- “Caprids”
