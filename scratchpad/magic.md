@@ -60,8 +60,7 @@ stats
 -   -%30 Perception, Intelligence, Strength and Endurance permanently.
 -   Maximum Magic reduced to 1/2 permanently. Subsequent Magic gains per level unaffected.
 -   %100 under zero:
-
-Cranium and brain proceed to cover an area of approximately six meters radius around the caster in a messy fashion.
+-   Cranium and brain proceed to cover an area of approximately six meters radius around the caster in a messy fashion.
 
 #### Voice Magic
 
