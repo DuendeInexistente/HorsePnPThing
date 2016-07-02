@@ -5,7 +5,7 @@
 ----
 #####**{{ "Fear ye who enter;" | style("color:red") }}**
 
-#####**This is a land of changing tongues and private logic.**
+#####**{{ "This is a land of changing tongues and private logic." | style("color:red") }}**
 
 ### List of sapient races: {#list-of-sapient-races}
 
