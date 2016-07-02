@@ -3,7 +3,8 @@
         "footnote-string-to-number",
         "printlinks",
         "comment",
-        "-edit-link"
+        "-edit-link",
+        "editlink"
     ],
     "pluginsConfig": {
         "comment": {
