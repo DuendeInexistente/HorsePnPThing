@@ -5,7 +5,7 @@
    * [The bases](system/the_bases.md)
 * [Scratchpad](scratchpad.md)
    * [Magic](scratchpad/magic.md)
-* [Modules](modules/main.md)
+* [Modules](modules/mainmd.md)
    * [Main.](modules/main/main.md)
 * [Todo](todo.md)
 
