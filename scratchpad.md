@@ -45,6 +45,8 @@
 Mainly around D20, as D100 adds more exactitude than anyone needs in a PnP-- Its little more than masturbating to large numbers. Damage scale would be high-ish, to add flexibility; Starting chars would be at a promedium of 20HP, assuming they aren’t a high/low HP build.
 
 Weapons wouldn’t be grouped by straight class, but by damaging and handling surfaces.
+{{ "example text" | style("color:red") }}
+{{ "example text" | style("text-align:center") }}
 
 #### Attributes: {#attributes}
 
