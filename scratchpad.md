@@ -142,7 +142,7 @@ While never as good as a proper lab, carts could carry some of the equipement ne
 
 [^seis]: Individuals that are seemingly unique.
 
-[^siete]:  [Old and outdated infographic](https://files.catbox.moe/u754q8.png) , made for another system altogether.
+[^siete]:  [Old and outdated infographic](Imagenes/Clover.png) , made for another system altogether.
 
 
 [^ocho]: Weapons that are so massive they require to be driven.
