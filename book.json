@@ -3,14 +3,18 @@
         "footnote-string-to-number",
         "printlinks",
         "comment",
-        "edit-link",
-        "-editlink"
+        "-edit-link",
+        "editlink"
     ],
     "pluginsConfig": {
         "comment": {
             "highlightCommented": true
         },
-        "-editlink": {
+        "-edit-link": {
+            "base": "https://github.com/DuendeInexistente/HorsePnPThing",
+            "label": "Edit This Page"
+        },
+        "editlink": {
             "base": "https://github.com/DuendeInexistente/HorsePnPThing",
             "label": "Edit This Page",
             "multilingual": "0"
