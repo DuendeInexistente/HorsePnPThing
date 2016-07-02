@@ -13,7 +13,7 @@
         "editlink": {
             "base": "https://github.com/DuendeInexistente/HorsePnPThing",
             "label": "Edit This Page",
-            "multilingual": "false"
+            "multilingual": "0"
         }
     }
 }
