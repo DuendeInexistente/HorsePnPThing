@@ -6,5 +6,6 @@
 * [Scratchpad](scratchpad.md)
    * [Magic](scratchpad/magic.md)
 * Modules
+   * Main.
 * [Todo](todo.md)
 
