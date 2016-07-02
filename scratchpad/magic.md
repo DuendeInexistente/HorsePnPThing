@@ -1,3 +1,4 @@
+##Do keep in mind than this section is still being converter from more traditional systems.
 # Magic
 
 Before listing the spells themselves, it's worth noting that not all species cast magic the same way, and there isn't a universal school of magic. Every method has advantages and disadvantages.
@@ -13,8 +14,8 @@ Mana burnout bonuses only affect those who suffered the mana burnout due to usin
 Pure magics
 ===========
 
-#####(Or, when lights go pew-pew)
-###### saaa
+######(Or, when lights go pew-pew)
+
 
 #### Arcane Magic
 
@@ -210,7 +211,7 @@ Can be used by: Pegasi, griffins
 Partial magics
 ==============
 
-#####(Or, when you make something that uses the magic indirectly)
+######(Or, when you make something that uses the magic indirectly)
 
 #### Runecrafting
 
