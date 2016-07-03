@@ -8,5 +8,5 @@
 * [Modules](modules/mainmd.md)
    * [Main.](modules/main/main.md)
 * [Todo](todo.md)
-* Contributing
+* [Contributing](contributing.md)
 
