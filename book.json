@@ -8,8 +8,6 @@
         "word-count",
         "image-captions",
         "style",
-        "todo",
-        "structured-toc"
     ],
     "pluginsConfig": {
         "comment": {
