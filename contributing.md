@@ -17,5 +17,3 @@ Gitbook plugins used in this that contributors should be aware of:
  - **printlinks**: If the book is printed, all links are written in the footer.
  - **image-captions**: Allows to have captions in images.
  - **style**: Allows custom text styling.
-
-Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")

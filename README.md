@@ -8,17 +8,16 @@
 
 ### Reasoning: {#reasoning}
 
-All pony related PnP games are merely modifications of more popular systems, something I want to fix.
+Originally, my project was to make a P&P game from scratch.
+However, it changed pretty quickly-- I decided I'd make the systems setting-agnostic, so that anyone could make a system in any setting.
 
 ### Goals: {#goals}
 
 *   Simplicity, mostly focusing in roleplaying over simulation.
     *   Related to this, all species should be available to the players.
 *   Giving a variety of elements for the players to build settings in.
-    *   For this reasons, there is no "Canon" setting[^hawk]-- I will instead give a barebones modules the players can use to build their own, mostly taken from the fandom[^pen].
-*   To provide a system that allows for non-violent solutions to conflict[^home], for obvious reasons.
-
-[^hawk]: Other than _the_ canon setting, of course. It’ll be a sort of base, and only contain strictly canonical elements. The system will still be made in such a way that non-pony settings can be added with ease.
+    *   For this reasons, there is no "Canon" setting-- I will instead give a barebones modules the players can use to build their own.
+*   To provide a system that allows for non-violent solutions to conflict[^home], as not everyone wants to be a slayer of foes.
 
 [^pen]: Proper credit will be given in the manner of abundant footnotes.
 
