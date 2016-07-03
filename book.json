@@ -7,7 +7,7 @@
         "multipart",
         "word-count",
         "image-captions",
-        "style",
+        "style"
     ],
     "pluginsConfig": {
         "comment": {
