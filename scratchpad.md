@@ -144,6 +144,7 @@ Due to it's lenght and in-depth status compared to other fields, Magic has it's 
 
 
 
+
 ---
 
 
@@ -159,3 +160,6 @@ Due to it's lenght and in-depth status compared to other fields, Magic has it's 
 [^ocho]: Weapons that are so massive they require to be driven.
 
 [^nueve]: Duration of the unconcioussness should be a roll related to **Str**. Maybe turns=[**Str**]d4?
+
+
+#### World {#world}
