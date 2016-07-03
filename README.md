@@ -14,7 +14,6 @@ However, it changed pretty quickly-- I decided I'd make the systems setting-agno
 ### Goals: {#goals}
 
 *   Simplicity, mostly focusing in roleplaying over simulation.
-    *   Related to this, all species should be available to the players.
 *   Giving a variety of elements for the players to build settings in.
     *   For this reasons, there is no "Canon" setting-- I will instead give a barebones modules the players can use to build their own.
 *   To provide a system that allows for non-violent solutions to conflict[^home], as not everyone wants to be a slayer of foes.
