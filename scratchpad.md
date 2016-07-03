@@ -68,7 +68,7 @@ May or may not do this; may lead to overcomplexity, a must-not in PnP. Would add
     *   Long handle <sup>(Axes, polearms)</sup>
     *   Triggered handle. <sup>(Handguns, crossbows)</sup>
     *   Flexible handle <sup>(Bows)</sup>
-    *   Telekinetic handle <sup>(Clover</sup>[^siete]
+    *   Telekinetic handle <sup>(Clover)</sup>[^siete]
 *   Damaging surface
     *   Blunt surface <sup>(A sword’s flat, a club)</sup>
     *   Pointed end <sup>(Sword, spear, arrow)</sup>
@@ -79,6 +79,7 @@ May or may not do this; may lead to overcomplexity, a must-not in PnP. Would add
     *   Burning <sup>(Bullet)</sup>
     *   Debuffing <sup>(Poisoned arrows)</sup>
     *   Cutting <sup>(Shuriken)</sup>
+    *   Blunt<sup>(A rock)</sup>
 *   Size:
     *   Diminutive <sup>(Bolt, Shuriken)</sup>
     *   Small <sup>(Dagger)</sup>
