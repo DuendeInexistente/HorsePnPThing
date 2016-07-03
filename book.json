@@ -9,7 +9,8 @@
         "image-captions",
         "style",
         "todo",
-        "headers"
+        "headers",
+        "structured-toc"
     ],
     "pluginsConfig": {
         "comment": {
