@@ -138,8 +138,7 @@ While never as good as a proper lab, carts could carry some of the equipement ne
 
 
 #### Magic {#magic}
-Due to it's lenght and in-depth status compared to other fields, Magic has it's own section.
-
+Due to it's length and in-depth status compared to other fields, Magic has it's own section.
 
 
 
