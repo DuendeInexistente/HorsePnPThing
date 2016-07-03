@@ -9,4 +9,5 @@
 * [Contributing](contributing.md)
 * [Scratchpad](scratchpad.md)
    * [Magic](scratchpad/magic.md)
+* Tests
 
